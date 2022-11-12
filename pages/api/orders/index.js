@@ -1,3 +1,4 @@
+/*
 import { getSession } from 'next-auth/react';
 import Order from '../../../models/Order';
 import db from '../../../utils/db';
@@ -19,3 +20,4 @@ const handler = async (req, res) => {
   res.status(201).send(order);
 };
 export default handler;
+*/

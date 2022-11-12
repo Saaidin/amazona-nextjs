@@ -1,3 +1,4 @@
+/*
 import axios from 'axios';
 import Link from 'next/link';
 import { Bar } from 'react-chartjs-2';
@@ -144,3 +145,4 @@ function AdminDashboardScreen() {
 
 AdminDashboardScreen.auth = { adminOnly: true };
 export default AdminDashboardScreen;
+*/

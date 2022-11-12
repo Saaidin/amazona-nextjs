@@ -1,3 +1,4 @@
+/*
 import axios from 'axios';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
@@ -180,3 +181,4 @@ export default function AdminProdcutsScreen() {
 }
 
 AdminProdcutsScreen.auth = { adminOnly: true };
+*/

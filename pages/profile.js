@@ -1,3 +1,4 @@
+/*
 import React, { useEffect } from 'react';
 import { signIn, useSession } from 'next-auth/react';
 import { useForm } from 'react-hook-form';
@@ -134,3 +135,4 @@ export default function ProfileScreen() {
 }
 
 ProfileScreen.auth = true;
+*/

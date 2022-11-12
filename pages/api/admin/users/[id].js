@@ -1,3 +1,4 @@
+/*
 import User from '../../../../models/User';
 import db from '../../../../utils/db';
 import { getSession } from 'next-auth/react';
@@ -32,3 +33,4 @@ const deleteHandler = async (req, res) => {
 };
 
 export default handler;
+*/

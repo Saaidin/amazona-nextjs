@@ -1,3 +1,4 @@
+/*
 import Image from 'next/image';
 import Link from 'next/link';
 import React, { useContext } from 'react';
@@ -113,3 +114,4 @@ function CartScreen() {
 }
 
 export default dynamic(() => Promise.resolve(CartScreen), { ssr: false });
+*/

@@ -1,3 +1,4 @@
+/*
 import { getSession } from 'next-auth/react';
 import bcryptjs from 'bcryptjs';
 import User from '../../../models/User';
@@ -45,3 +46,4 @@ async function handler(req, res) {
 }
 
 export default handler;
+*/

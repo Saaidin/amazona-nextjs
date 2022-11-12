@@ -1,3 +1,4 @@
+/*
 import React from 'react';
 
 export default function CheckoutWizard({ activeStep = 0 }) {
@@ -24,3 +25,4 @@ export default function CheckoutWizard({ activeStep = 0 }) {
     </div>
   );
 }
+*/
