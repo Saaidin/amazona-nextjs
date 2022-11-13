@@ -60,7 +60,7 @@ $ Open http://localhost:3000
 8. Handle Add To Cart
    1. define react context
    2. define cart items state
-   3. create addd to cart action
+   3. create add to cart action
    4. add reducer
    5. create store provider
    6. handle add to cart button
@@ -98,7 +98,7 @@ $ Open http://localhost:3000
     1. display address fields
     2. save address in context
 17. Create Payment Method Screen
-    1. dispaly payment methods
+    1. display payment methods
     2. save payment method in context
 18. Seed sample products
     1. create product model in mongoose
