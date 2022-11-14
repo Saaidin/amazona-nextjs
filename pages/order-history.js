@@ -1,4 +1,3 @@
-/*
 import axios from 'axios';
 import Link from 'next/link';
 import React, { useEffect, useReducer } from 'react';
@@ -89,4 +88,3 @@ function OrderHistoryScreen() {
 
 OrderHistoryScreen.auth = true;
 export default OrderHistoryScreen;
-*/

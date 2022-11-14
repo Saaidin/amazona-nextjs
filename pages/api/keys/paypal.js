@@ -1,4 +1,3 @@
-/*
 import { getSession } from 'next-auth/react';
 
 const handler = async (req, res) => {
@@ -9,4 +8,3 @@ const handler = async (req, res) => {
   res.send(process.env.PAYPAL_CLIENT_ID || 'sb');
 };
 export default handler;
-*/

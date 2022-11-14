@@ -1,4 +1,3 @@
-/*
 const cloudinary = require('cloudinary').v2;
 
 export default function signature(req, res) {
@@ -13,4 +12,3 @@ export default function signature(req, res) {
   res.statusCode = 200;
   res.json({ signature, timestamp });
 }
-*/

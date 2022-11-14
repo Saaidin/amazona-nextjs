@@ -1,4 +1,3 @@
-/*
 import Product from '../../models/Product';
 import User from '../../models/User';
 import data from '../../utils/data';
@@ -14,4 +13,3 @@ const handler = async (req, res) => {
   res.send({ message: 'seeded successfully' });
 };
 export default handler;
-*/

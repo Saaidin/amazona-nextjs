@@ -1,4 +1,3 @@
-/*
 import { getSession } from 'next-auth/react';
 import Product from '../../../../models/Product';
 import db from '../../../../utils/db';
@@ -43,4 +42,3 @@ const getHandler = async (req, res) => {
   res.send(products);
 };
 export default handler;
-*/

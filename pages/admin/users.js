@@ -1,4 +1,3 @@
-/*
 import axios from 'axios';
 import Link from 'next/link';
 import React, { useEffect, useReducer } from 'react';
@@ -144,4 +143,3 @@ function AdminUsersScreen() {
 
 AdminUsersScreen.auth = { adminOnly: true };
 export default AdminUsersScreen;
-*/

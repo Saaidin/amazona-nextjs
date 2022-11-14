@@ -1,4 +1,3 @@
-/*
 import React, { useContext, useEffect } from 'react';
 import { useForm } from 'react-hook-form';
 import Cookies from 'js-cookie';
@@ -134,4 +133,3 @@ export default function ShippingScreen() {
 }
 
 ShippingScreen.auth = true;
-*/

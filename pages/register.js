@@ -1,4 +1,3 @@
-/*
 import Link from 'next/link';
 import React, { useEffect } from 'react';
 import { signIn, useSession } from 'next-auth/react';
@@ -141,4 +140,3 @@ export default function LoginScreen() {
     </Layout>
   );
 }
-*/
